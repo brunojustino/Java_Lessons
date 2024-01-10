@@ -22,6 +22,7 @@ Reserved Keywords
 class, public, private, static, void, if, else, while, for, switch, case, break, continue, return, new, this, super, etc.
 
  */
+@SuppressWarnings("WrongPackageStatement")
 public class Basics {
     public static void main(String[] args) {
         // Variables and Data Types
@@ -30,13 +31,6 @@ public class Basics {
         char gender = 'M';
         boolean isStudent = true;
         String name = "John";
-
-        // Conditionals
-        if (age >= 18) {
-            System.out.println("You are an adult.");
-        } else {
-            System.out.println("You are a minor.");
-        }
 
         // Looping
         for (int i = 0; i < 5; i++) {
