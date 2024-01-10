@@ -1,5 +1,7 @@
 Learning Senior concepts based on ChatGPT
 
+Oracle code conventions - https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html
+
 Senior concepts according to ChatGPT answer of: What every senior Java developer should know?
 
 1. **Basics of Java:**
