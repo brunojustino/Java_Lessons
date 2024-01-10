@@ -1,6 +1,6 @@
 Learning Senior concepts based on ChatGPT
 
-Senior concepts according to Chatgpt answer of: What every senior Java developer should know?
+Senior concepts according to ChatGPT answer of: What every senior Java developer should know?
 
 1. **Basics of Java:**
     - Syntax, keywords, data types
