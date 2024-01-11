@@ -15,5 +15,6 @@
 | Ctrl + Shit + Space          | Smart Code Completion                          |
 | Ctrl + Shit + Enter          | Complete Statement                             |
 | Ctrl + /                     | Comment line                                   |
+| Ctrl + Shift + /             | Multiple line comment                          |
 | Ctrl + w /  Ctrl + Shift + w | Expand / Shrink Selection                      |
 | Ctrl + Alt + M               | Extract Method                                 |
